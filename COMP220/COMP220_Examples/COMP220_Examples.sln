@@ -13,6 +13,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_ShadersFinal", "03_Shade
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Transformations", "04_Transformations\04_Transformations.vcxproj", "{BDF51D68-70F0-4CD7-8080-E29EB6C6ED0E}"
 EndProject
+<<<<<<< HEAD
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_Geometry", "05_Geometry\05_Geometry.vcxproj", "{C4345F31-65E9-454A-89C7-FCB773C6C350}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Mesh", "06_Mesh\06_Mesh.vcxproj", "{1CBC4C19-3571-4D9D-ACC4-A54CB919D72A}"
@@ -23,6 +24,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_MeshFixed", "08_MeshFixe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_MeshTextured", "09_MeshTextured\09_MeshTextured.vcxproj", "{0B4A1712-CCAB-4339-A620-B8754141411D}"
 EndProject
+=======
+>>>>>>> d5021247e940802104902e6702269dca2f2c2d20
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +74,7 @@ Global
 		{BDF51D68-70F0-4CD7-8080-E29EB6C6ED0E}.Release|x64.Build.0 = Release|x64
 		{BDF51D68-70F0-4CD7-8080-E29EB6C6ED0E}.Release|x86.ActiveCfg = Release|Win32
 		{BDF51D68-70F0-4CD7-8080-E29EB6C6ED0E}.Release|x86.Build.0 = Release|Win32
+<<<<<<< HEAD
 		{C4345F31-65E9-454A-89C7-FCB773C6C350}.Debug|x64.ActiveCfg = Debug|x64
 		{C4345F31-65E9-454A-89C7-FCB773C6C350}.Debug|x64.Build.0 = Debug|x64
 		{C4345F31-65E9-454A-89C7-FCB773C6C350}.Debug|x86.ActiveCfg = Debug|Win32
@@ -111,6 +115,8 @@ Global
 		{0B4A1712-CCAB-4339-A620-B8754141411D}.Release|x64.Build.0 = Release|x64
 		{0B4A1712-CCAB-4339-A620-B8754141411D}.Release|x86.ActiveCfg = Release|Win32
 		{0B4A1712-CCAB-4339-A620-B8754141411D}.Release|x86.Build.0 = Release|Win32
+=======
+>>>>>>> d5021247e940802104902e6702269dca2f2c2d20
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
