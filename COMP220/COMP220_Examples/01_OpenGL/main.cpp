@@ -107,7 +107,11 @@ int main(int argc, char* args[])
 			}
 		}
 		//Do rendering here!
+<<<<<<< HEAD
 		glClearColor(0.0, 0.0, 1.0, 0.0);
+=======
+		glClearColor(1.0, 0.0, 0.0, 1.0);
+>>>>>>> d5021247e940802104902e6702269dca2f2c2d20
 		glClear(GL_COLOR_BUFFER_BIT);
 
 		// 1rst attribute buffer : vertices

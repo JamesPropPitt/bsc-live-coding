@@ -22,7 +22,11 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{29BDA066-E94B-4C2C-8693-40EE5B921C1F}</ProjectGuid>
     <RootNamespace>My0_SDL_Window</RootNamespace>
+<<<<<<< HEAD
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+=======
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+>>>>>>> d5021247e940802104902e6702269dca2f2c2d20
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -102,10 +106,13 @@
       <Command>copy ..\..\..\Libraries\SDL2-2.0.6\lib\x64\SDL2.dll $(OutDir)\SDL2.dll
 copy ..\..\..\Libraries\glew-2.1.0\bin\Release\x64\glew32.dll $(OutDir)\glew32.dll</Command>
     </PostBuildEvent>
+<<<<<<< HEAD
     <PreBuildEvent>
       <Command>copy ..\..\..\Libraries\SDL2-2.0.6\lib\x64\SDL2.dll $(OutDir)\SDL2.dll
 copy ..\..\..\Libraries\glew-2.1.0\bin\Release\x64\glew32.dll $(OutDir)\glew32.dll</Command>
     </PreBuildEvent>
+=======
+>>>>>>> d5021247e940802104902e6702269dca2f2c2d20
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>
